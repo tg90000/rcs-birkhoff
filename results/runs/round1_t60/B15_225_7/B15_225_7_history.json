@@ -1,0 +1,26 @@
+[
+  {
+    "Error": 0.0,
+    "Incumbent": 75,
+    "Method": "greedy-zeroing",
+    "Time": 0.000312875
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 72,
+    "Method": "greedy-randomized",
+    "Time": 0.000773959
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 71,
+    "Method": "lns",
+    "Time": 0.420419709
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 70,
+    "Method": "sat-endgame",
+    "Time": 3.5429925
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Error": 0.0,
+    "Incumbent": 17,
+    "Method": "greedy-zeroing",
+    "Time": 0.000018167
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 16,
+    "Method": "zbeam",
+    "Time": 0.000625917
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 15,
+    "Method": "zbeam",
+    "Time": 0.001025
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 14,
+    "Method": "zbeam",
+    "Time": 0.0252835
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "Error": 0.0,
+    "Incumbent": 284,
+    "Method": "greedy-zeroing",
+    "Time": 0.052215958
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 100,
+    "Method": "frequency-weights+sweep",
+    "Time": 0.056315166
+  }
+]

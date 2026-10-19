@@ -1,0 +1,14 @@
+[
+  {
+    "Error": 0.0,
+    "Incumbent": 16,
+    "Method": "greedy-zeroing",
+    "Time": 0.000022917
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 14,
+    "Method": "greedy-randomized",
+    "Time": 0.000132792
+  }
+]

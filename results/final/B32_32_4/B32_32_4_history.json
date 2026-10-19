@@ -1,0 +1,20 @@
+[
+  {
+    "Error": 0.0,
+    "Incumbent": 102,
+    "Method": "greedy-zeroing",
+    "Time": 0.001245708
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 96,
+    "Method": "greedy-randomized",
+    "Time": 0.002303583
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 32,
+    "Method": "weight-search+peel",
+    "Time": 0.0032835
+  }
+]

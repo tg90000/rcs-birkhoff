@@ -1,0 +1,20 @@
+[
+  {
+    "Error": 0.0,
+    "Incumbent": 167,
+    "Method": "greedy-zeroing",
+    "Time": 0.009148708
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 166,
+    "Method": "lns",
+    "Time": 0.017815167
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 64,
+    "Method": "weight-search+peel",
+    "Time": 0.045296542
+  }
+]

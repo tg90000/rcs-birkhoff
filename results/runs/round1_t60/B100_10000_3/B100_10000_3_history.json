@@ -1,0 +1,32 @@
+[
+  {
+    "Error": 0.0,
+    "Incumbent": 436,
+    "Method": "greedy-zeroing",
+    "Time": 0.112433458
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 413,
+    "Method": "greedy-randomized",
+    "Time": 0.153771417
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 412,
+    "Method": "lns",
+    "Time": 0.676331875
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 408,
+    "Method": "greedy-randomized",
+    "Time": 2.747317458
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 407,
+    "Method": "lns",
+    "Time": 4.912615833
+  }
+]

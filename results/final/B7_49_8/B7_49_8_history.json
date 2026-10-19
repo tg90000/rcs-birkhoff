@@ -1,0 +1,44 @@
+[
+  {
+    "Error": 0.0,
+    "Incumbent": 30,
+    "Method": "greedy-zeroing",
+    "Time": 0.000037292
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 29,
+    "Method": "lns",
+    "Time": 0.004664042
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 28,
+    "Method": "lns",
+    "Time": 0.052968167
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 27,
+    "Method": "zbeam",
+    "Time": 0.081431125
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 26,
+    "Method": "zbeam",
+    "Time": 0.082294417
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 25,
+    "Method": "zbeam",
+    "Time": 6.933181333
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 24,
+    "Method": "zbeam",
+    "Time": 137.8675345
+  }
+]

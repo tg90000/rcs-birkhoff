@@ -1,0 +1,56 @@
+[
+  {
+    "Error": 0.0,
+    "Incumbent": 441,
+    "Method": "greedy-zeroing",
+    "Time": 0.113057875
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 411,
+    "Method": "greedy-randomized",
+    "Time": 0.155330084
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 410,
+    "Method": "lns",
+    "Time": 0.246608167
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 408,
+    "Method": "greedy-randomized",
+    "Time": 2.225514375
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 407,
+    "Method": "lns",
+    "Time": 2.236602334
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 406,
+    "Method": "lns",
+    "Time": 7.391448042
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 405,
+    "Method": "greedy-randomized",
+    "Time": 11.792840292
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 404,
+    "Method": "greedy-randomized",
+    "Time": 31.449667
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 403,
+    "Method": "lns",
+    "Time": 47.494978209
+  }
+]

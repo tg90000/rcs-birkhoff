@@ -1,0 +1,44 @@
+[
+  {
+    "Error": 0.0,
+    "Incumbent": 106,
+    "Method": "greedy-zeroing",
+    "Time": 0.001037917
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 105,
+    "Method": "greedy-randomized",
+    "Time": 0.002024542
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 104,
+    "Method": "lns",
+    "Time": 0.003156375
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 103,
+    "Method": "lns",
+    "Time": 0.099176584
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 102,
+    "Method": "greedy-randomized",
+    "Time": 2.0154475
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 101,
+    "Method": "greedy-randomized",
+    "Time": 2.074933625
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 100,
+    "Method": "greedy-randomized",
+    "Time": 2.304722917
+  }
+]

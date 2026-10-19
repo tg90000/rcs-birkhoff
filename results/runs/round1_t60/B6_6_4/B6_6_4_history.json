@@ -1,0 +1,8 @@
+[
+  {
+    "Error": 0.0,
+    "Incumbent": 6,
+    "Method": "greedy-zeroing",
+    "Time": 4.125e-6
+  }
+]

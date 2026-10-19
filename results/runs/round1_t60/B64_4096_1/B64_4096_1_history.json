@@ -1,0 +1,68 @@
+[
+  {
+    "Error": 0.0,
+    "Incumbent": 260,
+    "Method": "greedy-zeroing",
+    "Time": 0.023855209
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 254,
+    "Method": "greedy-randomized",
+    "Time": 0.041956792
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 253,
+    "Method": "lns",
+    "Time": 0.048258584
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 252,
+    "Method": "lns",
+    "Time": 0.298439334
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 250,
+    "Method": "greedy-digits",
+    "Time": 2.036843459
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 249,
+    "Method": "greedy-randomized",
+    "Time": 2.064052667
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 248,
+    "Method": "lns",
+    "Time": 2.090407167
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 247,
+    "Method": "greedy-randomized",
+    "Time": 2.313474834
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 246,
+    "Method": "lns",
+    "Time": 3.087603084
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 245,
+    "Method": "greedy-randomized",
+    "Time": 12.602205875
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 244,
+    "Method": "sat-endgame",
+    "Time": 14.712341542
+  }
+]

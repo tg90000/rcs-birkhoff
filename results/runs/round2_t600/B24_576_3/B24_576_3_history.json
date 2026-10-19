@@ -1,0 +1,56 @@
+[
+  {
+    "Error": 0.0,
+    "Incumbent": 107,
+    "Method": "greedy-zeroing",
+    "Time": 0.001075792
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 106,
+    "Method": "lns",
+    "Time": 0.003615417
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 105,
+    "Method": "lns",
+    "Time": 0.0177365
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 104,
+    "Method": "lns",
+    "Time": 0.117867084
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 103,
+    "Method": "zbeam",
+    "Time": 0.357326625
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 102,
+    "Method": "zbeam",
+    "Time": 0.362109959
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 101,
+    "Method": "zbeam",
+    "Time": 1.810973292
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 100,
+    "Method": "lns",
+    "Time": 2.911612084
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 99,
+    "Method": "sat-endgame",
+    "Time": 17.076453334
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "Error": 0.0,
+    "Incumbent": 57,
+    "Method": "greedy-zeroing",
+    "Time": 0.000153
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 56,
+    "Method": "lns",
+    "Time": 0.000716875
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 55,
+    "Method": "zbeam",
+    "Time": 0.004854375
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 54,
+    "Method": "sat-endgame",
+    "Time": 0.416395708
+  },
+  {
+    "Error": 0.0,
+    "Incumbent": 53,
+    "Method": "zbeam",
+    "Time": 36.940489958
+  }
+]
