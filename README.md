@@ -21,7 +21,8 @@ RCS (Recover, Certify, Search) runs two chains in parallel.
 - The bound chain proves lower bounds on the length: the largest number of nonzero entries in a row or column, a
   bound from pairs of rows or columns, and certificates of a SAT solver (Certify).
 
-When the two chains meet, the decomposition is optimal. The paper gives the details and the proofs.
+When the two chains meet, the decomposition is optimal. The [paper](https://arxiv.org/abs/2610.25837) gives the
+details and the proofs.
 
 The code is in Rust. To build it and to run it on one instance of QOBLIB:
 
@@ -38,16 +39,17 @@ every decomposition with the checker of QOBLIB.
 ## Citation
 
 A. Czégel, Exact minimum Birkhoff decompositions of doubly stochastic matrices with finite precision,
-arXiv:&lt;ARXIV ID&gt;, 2026.
+[arXiv:2610.25837](https://arxiv.org/abs/2610.25837), 2026.
 
 ```bibtex
 @misc{czegel2026rcs,
   author        = {Cz{\'e}gel, Andr{\'a}s},
   title         = {Exact minimum {Birkhoff} decompositions of doubly stochastic matrices with finite precision},
   year          = {2026},
-  eprint        = {<ARXIV ID>},
+  eprint        = {2610.25837},
   archivePrefix = {arXiv},
-  primaryClass  = {math.OC}
+  primaryClass  = {math.OC},
+  url           = {https://arxiv.org/abs/2610.25837}
 }
 ```
 

@@ -18,7 +18,7 @@ const AFFILIATION: &str = "Bentax Plus";
 /// Last part of the folder name, as in the other submissions (`<date>_<method>_<last name>`).
 const FOLDER_NAME: &str = "Czegel";
 const METHOD: &str = "RecoverCertifySearch";
-const REFERENCE: &str = "https://github.com/tg90000/rcs-birkhoff";
+const REFERENCE: &str = "https://arxiv.org/abs/2610.25837 (article), https://github.com/tg90000/rcs-birkhoff (code)";
 /// AI disclosure of the QOBLIB AI policy (none, assisted or generated), with the tools and the parts they produced.
 const AI_DISCLOSURE: &str = "assisted — AI assisted in coding and in formulating the documentation. Claude Code \
     (Anthropic) with the model Claude Opus 5.5 assisted in writing the solver code, the scripts and the documentation, \
